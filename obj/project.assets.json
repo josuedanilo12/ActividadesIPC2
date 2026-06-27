@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josue\\Downloads\\ApiEstructurasDemo\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+      "projectUniqueName": "C:\\Users\\josue\\OneDrive\\Escritorio\\ActividadesIPC2\\Actividad12_IPC2P_AVL\\ActividadesIPC2\\ApiEstructurasDemo.csproj",
       "projectName": "ApiEstructurasDemo",
-      "projectPath": "C:\\Users\\josue\\Downloads\\ApiEstructurasDemo\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+      "projectPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\ActividadesIPC2\\Actividad12_IPC2P_AVL\\ActividadesIPC2\\ApiEstructurasDemo.csproj",
       "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josue\\Downloads\\ApiEstructurasDemo\\ApiEstructurasDemo\\obj\\",
+      "outputPath": "C:\\Users\\josue\\OneDrive\\Escritorio\\ActividadesIPC2\\Actividad12_IPC2P_AVL\\ActividadesIPC2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config"
